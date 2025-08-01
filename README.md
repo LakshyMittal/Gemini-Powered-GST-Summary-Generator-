@@ -55,7 +55,7 @@ This project automates the generation of company financial summaries using GST n
 
 ---
 
-## 🧑‍💻 Intern Contribution – *Lakshay Mittal*
+## 🧑‍💻 Intern Contribution – *Lakshy Mittal*
 
 * Designed and implemented complete summary pipeline using LangChain
 * Wrote Gemini-compatible prompts to structure summaries
